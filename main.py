@@ -36,7 +36,7 @@ Posted: {posts[i]}
 More Info: {more_infos[i]}
     ''')
        
-        str1 = str1 + (f"{posts[i]};{companies[i]};{skills[i]};{more_infos[i]} \n")
+        str1 = str1 + (f"{posts[i]},{companies[i]},{skills[i]},{more_infos[i]} \n")
         
     with open(f"output.csv","w") as f:
         f.write(str1)
