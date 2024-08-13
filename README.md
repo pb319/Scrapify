@@ -4,4 +4,4 @@
 -  Approach
 
 #### Resource:
-Youtube Video Linke: 
+Youtube Video Link: [https://www.youtube.com/watch?v=XVv6mJpFOb0&t=2242s](Click Here) 
