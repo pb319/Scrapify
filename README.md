@@ -1,4 +1,7 @@
 ### Table of Contents
--  Resources
+-  Resources 
 -  Objective
 -  Approach
+
+#### Resource:
+Youtube Video Linke: 
