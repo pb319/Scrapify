@@ -1,8 +1,8 @@
 ### Table of Contents
--  [Resources](https://github.com/pb319/Scrapify/edit/main/README.md#resource) 
--  [Objective](https://github.com/pb319/Scrapify/edit/main/README.md#objective)
--  [Approach](https://github.com/pb319/Scrapify/edit/main/README.md#approach)
--  [Output Files](https://github.com/pb319/Scrapify/edit/main/README.md#output-files)
+-  [Resources](https://github.com/pb319/Scrapify#resource) 
+-  [Objective](https://github.com/pb319/Scrapify#objective)
+-  [Approach](https://github.com/pb319/Scrapify#objective)
+-  [Output Files](https://github.com/pb319/Scrapify#output-files)
 
 #### Resource:
 Youtube Video Link: [Click Here](https://www.youtube.com/watch?v=XVv6mJpFOb0&t=2242s) 
